@@ -1,4 +1,3 @@
-
 <%@ page import="java.lang.Math" %>
 
 <!DOCTYPE html>
